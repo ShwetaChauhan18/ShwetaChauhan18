@@ -27,3 +27,7 @@ Here are some ideas to get you started:
 
 <p><a href="https://shwetachauhan655.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
+
+### Languages used in my public repos
+<img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShwetaChauhan18&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+</div>
