@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Shweta Chauhan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://stackoverflow.com/users/6021469/shweta-chauhan5">
-  <img align="left" alt="Shweta Chauhan's StackOverflow" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/stackoverflow.svg" />
+  <img align="left" alt="Shweta Chauhan's StackOverflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" />
 </a>
 
 <p><a href="https://shwetachauhan655.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
