@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Android
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about Android and Flutter
-- ⚡ Fun fact: Keep Learning
+- ⚡  Fun fact: Keep Learning
 - 🔥 Active open-source contributor
 
 
