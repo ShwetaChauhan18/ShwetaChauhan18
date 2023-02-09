@@ -14,7 +14,7 @@
 ### 📫 How to reach me:
 
 - Twitter: https://twitter.com/ShwetaC25863219
-- Github: https://github.com/ShwetaChauhan18https://github.com/ShwetaChauhan18
+- Github: https://github.com/ShwetaChauhan18
 - Github: https://github.com/shwetachauhan-simform
 - Stackoverflow: https://stackoverflow.com/users/6021469/shweta-chauhan
 - Medium: https://shwetachauhan655.medium.com
