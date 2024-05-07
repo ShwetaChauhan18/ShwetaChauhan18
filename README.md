@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ShwetaChauhan18&color=blue&style=flat)
 
-- 👩‍💻 Developer with more then 6.5 years experience
+- 👩‍💻 Developer with more then 8 years experience
 - 🔭 I’m currently working on Android and Flutter
 - 🌱 I’m currently learning Flutter unit testing
 - 💬 Ask me about Android and Flutter
